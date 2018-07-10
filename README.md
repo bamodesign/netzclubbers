@@ -13,6 +13,8 @@ Durch den Button Einloggen akzeptierst du die Datenschutzerklärung von Netzclub
 
 Da wir selbst große Fans der vorhandenen, auch privaten Netzclub Applikation waren, diese jedoch nicht Supportet wird, wurde diese Applikation entwickelt. Falls Sie Rechteinhaber sind und ein Problem mit der Applikation haben melden Sie sich bitte bei mir und ich werde die Applikation entfernen.
 
+<h4>Bei Fehlern mit der App oder Erweiterungswünschen dürft ihr gerne eine neue "Issue" eröffnen. Geplante Erweiterungen sind <a href="https://github.com/bamodesign/netzclubbers/projects/1">hier</a> zu finden</h4>
+
 <h2>Screenshots:</h2> 
 <br />
 <div>
